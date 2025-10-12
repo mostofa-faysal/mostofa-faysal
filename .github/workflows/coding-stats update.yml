@@ -15,7 +15,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           ### Meta
           API_BASE_URL: https://wakatime.com/api
-          REPOSITORY: your-username/your-repo  # <- replace with your GitHub repo
+          REPOSITORY: mostofa-faysal/mostofa-faysal  # <- replace with your GitHub repo
           ### Content
           SHOW_TITLE: true
           SECTION_NAME: waka
