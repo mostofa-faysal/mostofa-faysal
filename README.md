@@ -42,7 +42,7 @@ Data Cleaning | Exploratory Data Analysis | Predictive Modeling | Data Visualiza
 
 ## Connect With Me
 Email: [amfaymos@gmail.com](mailto:amfaymos@gmail.com)
-LinkedIn: [linkedin.com/in/mostofafaysal](https://www.linkedin.com/in/mostofa-faysal)  
+LinkedIn: [linkedin.com/in/mostofa-faysal](https://www.linkedin.com/in/mostofa-faysal)  
 
 ---
 
