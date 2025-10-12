@@ -45,5 +45,6 @@ Email: [amfaymos@gmail.com](mailto:amfaymos@gmail.com)
 LinkedIn: [linkedin.com/in/mostofa-faysal](https://www.linkedin.com/in/mostofa-faysal)  
 
 ---
+<figure><embed src="https://wakatime.com/share/@amfaymos/cbc1a964-4411-47db-94b2-0368495bfcb1.svg"></embed></figure>
 
 "Turning data into insight, and insight into action."
