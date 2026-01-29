@@ -1,10 +1,3 @@
-## Core Skills
-- **Data Analysis:** Python (Pandas, NumPy), SQL, Power BI
-- **Machine Learning:** Supervised & Unsupervised learning, feature engineering, model evaluation
-- **Programming:** Python, Git, GitHub
-- **Databases:** PostgreSQL, SQLite
-- **Foundations:** Statistics, Linear Algebra, Data Management, Data Governance
-
 ## Current Status
 - Actively applying for **full-time roles, co-op positions, and internships**
 - Open to Data Science, Data Analyst, Machine Learning, and AI-focused roles
@@ -14,3 +7,6 @@
 - End-to-end data analysis and ML pipelines
 - Business-focused analytics and dashboards
 - Model interpretability and performance evaluation
+
+## Core Skills
+Python · SQL · Pandas · NumPy · scikit-learn · Power BI · PostgreSQL · SQLite · Git · GitHub · Statistics · Machine Learning
