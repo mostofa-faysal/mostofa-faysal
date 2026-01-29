@@ -1,10 +1,7 @@
 # Mostofa Faysal
 
 Data Science & Machine Learning graduate focused on building practical, data-driven systems with measurable business impact.  
-Currently seeking **full-time, co-op, or internship opportunities** in Data Science, Analytics, and AI-related roles.
-
-## Professional Focus
-I specialize in transforming raw data into insights, models, and decision-support tools. My work emphasizes clarity, scalability, and real-world applicability, with strong foundations in statistics, machine learning, and data management.
+Currently seeking **full-time opportunities** in Data Science, Analytics, and AI-related roles.
 
 ## Core Skills
 - **Data Analysis:** Python (Pandas, NumPy), SQL, Power BI
@@ -14,7 +11,6 @@ I specialize in transforming raw data into insights, models, and decision-suppor
 - **Foundations:** Statistics, Linear Algebra, Data Management, Data Governance
 
 ## Current Status
-- Academic term completed
 - Actively applying for **full-time roles, co-op positions, and internships**
 - Open to Data Science, Data Analyst, Machine Learning, and AI-focused roles
 - Based in Canada, open to hybrid or on-site opportunities
