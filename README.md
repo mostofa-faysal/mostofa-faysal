@@ -9,4 +9,4 @@
 - Model interpretability and performance evaluation
 
 ## Core Skills
-Python · SQL · Pandas · NumPy · scikit-learn · Power BI · PostgreSQL · SQLite · Git · GitHub · Statistics · Machine Learning
+Python (FastAPI, Scikit-learn, Pandas) · PostgreSQL · SQLite · Data Privacy (PIPEDA)
